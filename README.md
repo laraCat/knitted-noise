@@ -1,2 +1,2 @@
 # knitted-noise
-schematics and build documents
+Workshop, schematics, and build documents
