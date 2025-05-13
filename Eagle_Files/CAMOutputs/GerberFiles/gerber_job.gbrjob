@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-05-13T03:38:36Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "knit_kit_simpleCV V5-after-mirror-gndPlane"
+        },
+        "Owner": "Lara Grant <lara.anne.grant@gmail.com>",
+        "Size": {
+            "X": 66,
+            "Y": 143
+        }
+    }
+}
